@@ -1,0 +1,79 @@
+h1 {
+    color: goldenrod;
+}
+h2 {
+    color: greenyellow;
+}
+h3 {
+    color: mediumslateblue;
+}
+p {
+    color: rgb(155, 35, 31);
+}
+.pleasure {
+    color: forestgreen;
+}
+.pleasure-text {
+    color: goldenrod;
+}
+div {
+    color: hotpink;
+}
+span {
+    color: lightgreen;
+}
+.book span {
+    color: mediumblue;
+}
+.section p {
+    color: olive;
+}
+.section > p {
+    color: orangered;
+}
+.practice-text {
+    color: peru;
+}
+.practice-text + p {
+    color: royalblue;
+}
+.browsers-text {
+    color: seagreen;
+}
+.browsers-text ~ p {
+    color: violet;
+}
+.text {
+    color: khaki;
+}
+.english p span {
+    color: lime;
+}
+.english p {
+    color: mediumvioletred;
+}
+mark {
+    color: rgb(112, 106, 25);
+}
+a {
+    color: rgb(0, 1, 14);
+}
+li {
+    color: navajowhite;
+}
+.network-text p {
+    color: orange;
+}
+[class*="-texts"] {
+    color: orangered;
+}
+.stereotypes {
+    color: rgb(0, 1, 14);
+}
+[class*="-inner"] {
+    color: teal;
+}
+.check-list,
+.check {
+    color: aqua;
+}
